@@ -1,0 +1,13 @@
+{
+  "name": "nexter-project",
+  "homepage": "https://derickben.github.io/nexter-project/",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
